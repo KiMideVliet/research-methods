@@ -44,11 +44,11 @@ pip install -r requirements.txt
 
 ## Datasets
 The project uses two datasets:
-1. **TrashNet**: Baseline dataset with 2,527 images in six waste categories
+1. **TrashNet**: Baseline dataset with 2527 images in six waste categories
    - Categories: glass, paper, metal, plastic, cardboard, trash
    - Controlled conditions with uniform lighting and background
 
-2. **TACO** (Trash Annotations in Context): 1,500 images with rich environmental context
+2. **TACO** (Trash Annotations in Context): 7541 images with rich environmental context
    - 60 detailed categories mapped to TrashNet's six categories
    - Varied outdoor settings (streets, beaches, forests)
 
