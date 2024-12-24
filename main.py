@@ -4,6 +4,8 @@ from config import OUTPUT_DIR
 from preprocessing import DatasetPreprocessor
 from utils import setup_logging
 
+
+## Logger set up
 logger = setup_logging()
 
 def main():
