@@ -1,6 +1,6 @@
 # Assessing YOLOv8’s Capability in Multi-Class Household Waste Detection and Classification Under Real-World Conditions
 
-This project implements a preprocessing pipeline for training YOLOv8 on household waste classification using the TrashNet and TACO datasets. The project aims to evaluate YOLOv8's capability in multi-class household waste detection and classification under real-world conditions.
+[Beschrijving]
 
 ## Project Structure
 ```
@@ -107,7 +107,7 @@ AUGMENTATION_FACTOR = 2  # Augmented versions per image
    drive.mount('/content/drive')
    ```
 
-## Output
+## Output [Prerocessing]
 The preprocessing pipeline generates:
 - Processed images and labels
 - Cross-validation folds
