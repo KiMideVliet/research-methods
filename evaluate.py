@@ -101,7 +101,7 @@ if __name__ == "__main__":
     
     predictions_path = "saved_predictions.pkl"
     
-    download_from_drive(rive_link, predictions_path)
+    download_from_drive(drive_link, predictions_path)
 
     model_evaluation(predictions_path, ground_truths, class_names)
 
